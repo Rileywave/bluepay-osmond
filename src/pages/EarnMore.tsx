@@ -156,8 +156,8 @@ const EarnMore = () => {
   };
 
   const handleTaxJoinGroup = async () => {
-    const whatsappLink = "https://chat.whatsapp.com/JNuHAVaGNgQD40cQXOwFwV";
-    const telegramLink = "https://t.me/+wYh9iSrC3YkyMTlk";
+    const whatsappLink = "https://chat.whatsapp.com/BZw34v6Z0PV8OWHXGCdRVD?mode=wwt";
+    const telegramLink = "https://t.me/+qzdTU3CYPkc2YWY0";
     
     window.open(whatsappLink, '_blank');
     window.open(telegramLink, '_blank');
@@ -389,7 +389,7 @@ const EarnMore = () => {
                             variant="link"
                             size="sm"
                             className="h-auto p-0 text-xs"
-                            onClick={() => window.open('https://t.me/+wYh9iSrC3YkyMTlk', '_blank')}
+                            onClick={() => window.open('https://t.me/profchizzy', '_blank')}
                           >
                             Contact Support
                           </Button>

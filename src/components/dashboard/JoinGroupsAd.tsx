@@ -25,12 +25,12 @@ const JoinGroupsAd = () => {
   };
 
   const handleJoinTelegram = () => {
-    window.location.href = "https://t.me/Officialbluepay";
+    window.location.href = "https://t.me/+qzdTU3CYPkc2YWY0";
     handleDismiss();
   };
 
   const handleJoinWhatsApp = () => {
-    window.location.href = "https://chat.whatsapp.com/bluepay";
+    window.location.href = "https://chat.whatsapp.com/BZw34v6Z0PV8OWHXGCdRVD?mode=wwt";
     handleDismiss();
   };
 

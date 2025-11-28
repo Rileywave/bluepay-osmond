@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/Bluepay2025_bot', '_blank');
+    window.open('https://t.me/profchizzy', '_blank');
   };
 
   return (
@@ -37,7 +37,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('mailto:bluepaycustomerservice25@gmail.com')}
+              onClick={() => window.open('mailto:bluepaycustomerservice1@gmail.com')}
             >
               Send Email
             </Button>
@@ -55,7 +55,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('https://wa.me/2349127560865')}
+              onClick={() => window.open('https://wa.me/2348086490541')}
             >
               Chat on WhatsApp
             </Button>
@@ -73,7 +73,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={handleLiveChatClick}
+              onClick={() => window.open('https://t.me/profchizzy')}
             >
               Start Live Chat
             </Button>
@@ -82,7 +82,7 @@ const Support = () => {
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">bluepaycustomerservice25@gmail.com</p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">bluepaycustomerservice1@gmail.com</p>
         </div>
       </div>
     </div>
